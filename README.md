@@ -1,4 +1,4 @@
-# :rocket: Clone-Discord
+# :rocket: Discord Clone
 
 Este é um clone da interface gráfico do Discord feito com conhecimentos de UI Design.
 
