@@ -1,3 +1,5 @@
+![alt text](https://github.com/cKauan/Discord-UI/blob/master/github/screenshot-discord-ui-clone.png)
+
 # :rocket: Discord Clone
 
 Este é um clone da interface gráfico do Discord feito com conhecimentos de UI Design.
