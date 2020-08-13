@@ -13,7 +13,7 @@ https://ckdiscord-clone.netlify.app
 Clone o repositório para uma pasta no seu dispositivo
 
 ```bash
-git clone https://github.com/cKauan/clone-discord.git
+git clone https://github.com/cKauan/Discord-UI.git
 ```
 
 ## :green_book: Uso
